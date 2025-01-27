@@ -1,0 +1,1 @@
+-I"U:/prvni test/src/math/include" -isystem "U:/prvni test/build/_deps/googletest-src/googletest/include" -isystem "U:/prvni test/build/_deps/googletest-src/googletest"

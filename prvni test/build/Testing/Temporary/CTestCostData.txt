@@ -1,0 +1,5 @@
+MathTests.TestIntAdd 4 0.0331627
+MathTests.TestDoubleAdd 4 0.0276097
+MathTests.TestIntMinus 2 0.0557779
+MathTests.TestDoubleMinus 1 0.115005
+---

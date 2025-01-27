@@ -1,0 +1,5 @@
+if(EXISTS "U:/prvni test/build/test/math_test[1]_tests.cmake")
+  include("U:/prvni test/build/test/math_test[1]_tests.cmake")
+else()
+  add_test(math_test_NOT_BUILT math_test_NOT_BUILT)
+endif()

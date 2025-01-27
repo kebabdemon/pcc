@@ -1,0 +1,13 @@
+C:/Users/m_sedlacek/Desktop/iterface/i3/build/CMakeFiles/edit_cache.dir
+C:/Users/m_sedlacek/Desktop/iterface/i3/build/CMakeFiles/rebuild_cache.dir
+C:/Users/m_sedlacek/Desktop/iterface/i3/build/binaries/CMakeFiles/my_main.dir
+C:/Users/m_sedlacek/Desktop/iterface/i3/build/binaries/CMakeFiles/edit_cache.dir
+C:/Users/m_sedlacek/Desktop/iterface/i3/build/binaries/CMakeFiles/rebuild_cache.dir
+C:/Users/m_sedlacek/Desktop/iterface/i3/build/src/CMakeFiles/edit_cache.dir
+C:/Users/m_sedlacek/Desktop/iterface/i3/build/src/CMakeFiles/rebuild_cache.dir
+C:/Users/m_sedlacek/Desktop/iterface/i3/build/src/Vector/CMakeFiles/Vector.dir
+C:/Users/m_sedlacek/Desktop/iterface/i3/build/src/Vector/CMakeFiles/edit_cache.dir
+C:/Users/m_sedlacek/Desktop/iterface/i3/build/src/Vector/CMakeFiles/rebuild_cache.dir
+C:/Users/m_sedlacek/Desktop/iterface/i3/build/src/Point/CMakeFiles/Point.dir
+C:/Users/m_sedlacek/Desktop/iterface/i3/build/src/Point/CMakeFiles/edit_cache.dir
+C:/Users/m_sedlacek/Desktop/iterface/i3/build/src/Point/CMakeFiles/rebuild_cache.dir

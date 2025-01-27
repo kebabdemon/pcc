@@ -1,0 +1,3 @@
+C:/Users/já/OneDrive - Univerzita Tomáše Bati ve Zlíně/c++/prvni test/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+C:/Users/já/OneDrive - Univerzita Tomáše Bati ve Zlíně/c++/prvni test/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/já/OneDrive - Univerzita Tomáše Bati ve Zlíně/c++/prvni test/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir

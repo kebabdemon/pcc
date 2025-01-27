@@ -1,0 +1,13 @@
+C:/Users/já/OneDrive - Univerzita Tomáše Bati ve Zlíně/c++/test5.12/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/já/OneDrive - Univerzita Tomáše Bati ve Zlíně/c++/test5.12/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/já/OneDrive - Univerzita Tomáše Bati ve Zlíně/c++/test5.12/cmake-build-debug/binaries/CMakeFiles/my_main.dir
+C:/Users/já/OneDrive - Univerzita Tomáše Bati ve Zlíně/c++/test5.12/cmake-build-debug/binaries/CMakeFiles/edit_cache.dir
+C:/Users/já/OneDrive - Univerzita Tomáše Bati ve Zlíně/c++/test5.12/cmake-build-debug/binaries/CMakeFiles/rebuild_cache.dir
+C:/Users/já/OneDrive - Univerzita Tomáše Bati ve Zlíně/c++/test5.12/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/já/OneDrive - Univerzita Tomáše Bati ve Zlíně/c++/test5.12/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+C:/Users/já/OneDrive - Univerzita Tomáše Bati ve Zlíně/c++/test5.12/cmake-build-debug/src/Vector/CMakeFiles/Vector.dir
+C:/Users/já/OneDrive - Univerzita Tomáše Bati ve Zlíně/c++/test5.12/cmake-build-debug/src/Vector/CMakeFiles/edit_cache.dir
+C:/Users/já/OneDrive - Univerzita Tomáše Bati ve Zlíně/c++/test5.12/cmake-build-debug/src/Vector/CMakeFiles/rebuild_cache.dir
+C:/Users/já/OneDrive - Univerzita Tomáše Bati ve Zlíně/c++/test5.12/cmake-build-debug/src/Point/CMakeFiles/Point.dir
+C:/Users/já/OneDrive - Univerzita Tomáše Bati ve Zlíně/c++/test5.12/cmake-build-debug/src/Point/CMakeFiles/edit_cache.dir
+C:/Users/já/OneDrive - Univerzita Tomáše Bati ve Zlíně/c++/test5.12/cmake-build-debug/src/Point/CMakeFiles/rebuild_cache.dir

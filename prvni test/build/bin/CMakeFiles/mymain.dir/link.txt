@@ -1,0 +1,3 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\mymain.dir/objects.a
+C:\Qt\Tools\mingw1120_64\bin\ar.exe qc CMakeFiles\mymain.dir/objects.a @CMakeFiles\mymain.dir\objects1.rsp
+C:\Qt\Tools\mingw1120_64\bin\c++.exe -Wl,--whole-archive CMakeFiles\mymain.dir/objects.a -Wl,--no-whole-archive -o mymain.exe -Wl,--out-implib,libmymain.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\mymain.dir\linklibs.rsp

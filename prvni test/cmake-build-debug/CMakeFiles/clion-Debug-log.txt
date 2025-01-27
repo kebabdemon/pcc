@@ -1,0 +1,33 @@
+"C:\Program Files\JetBrains\CLion 2023.2.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S "C:\Users\l_uchytil\OneDrive - Univerzita Tomáše Bati ve Zlíně\c++\prvni test" -B "C:\Users\l_uchytil\OneDrive - Univerzita Tomáše Bati ve Zlíně\c++\prvni test\cmake-build-debug"
+-- The CXX compiler identification is GNU 13.1.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files/JetBrains/CLion 2023.2.1/bin/mingw/bin/g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+CMake Warning (dev) at C:/Program Files/JetBrains/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/FetchContent.cmake:1282 (message):
+  The DOWNLOAD_EXTRACT_TIMESTAMP option was not given and policy CMP0135 is
+  not set.  The policy's OLD behavior will be used.  When using a URL
+  download, the timestamps of extracted files should preferably be that of
+  the time of extraction, otherwise code that depends on the extracted
+  contents might not be rebuilt if the URL changes.  The OLD behavior
+  preserves the timestamps from the archive instead, but this is usually not
+  what you want.  Update your project to the NEW behavior or specify the
+  DOWNLOAD_EXTRACT_TIMESTAMP option with a value of true to avoid this
+  robustness issue.
+Call Stack (most recent call first):
+  test/CMakeLists.txt:2 (FetchContent_Declare)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Error: The current CMakeCache.txt directory C:/Users/l_uchytil/OneDrive - Univerzita Tom├í┼íe Bati ve Zl├şn─Ť/c++/prvni test/cmake-build-debug/_deps/googletest-subbuild/CMakeCache.txt is different than the directory c:/Users/j├í/OneDrive - Univerzita Tom├í┼íe Bati ve Zl├şn─Ť/c++/prvni test/cmake-build-debug/_deps/googletest-subbuild where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+
+CMake Error at C:/Program Files/JetBrains/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/FetchContent.cmake:1610 (message):
+  CMake step for googletest failed: 1
+Call Stack (most recent call first):
+  C:/Program Files/JetBrains/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/FetchContent.cmake:1762:EVAL:2 (__FetchContent_directPopulate)
+  C:/Program Files/JetBrains/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/FetchContent.cmake:1762 (cmake_language)
+  C:/Program Files/JetBrains/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/FetchContent.cmake:1976 (FetchContent_Populate)
+  test/CMakeLists.txt:8 (FetchContent_MakeAvailable)
+
+
+-- Configuring incomplete, errors occurred!

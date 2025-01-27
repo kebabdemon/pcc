@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\já\OneDrive - Univerzita Tomáše Bati ve Zlíně\c++\test5.12 Select CMakeLists.txt

@@ -1,0 +1,107 @@
+Start testing: Oct 03 08:57 Støední Evropa (letní èas)
+----------------------------------------------------------
+1/4 Testing: MathTests.TestIntAdd
+1/4 Test: MathTests.TestIntAdd
+Command: "U:/prvni test/build/test/math_test.exe" "--gtest_filter=MathTests.TestIntAdd" "--gtest_also_run_disabled_tests"
+Directory: U:/prvni test/build/test
+"MathTests.TestIntAdd" start time: Oct 03 08:57 Støední Evropa (letní èas)
+Output:
+----------------------------------------------------------
+Note: Google Test filter = MathTests.TestIntAdd
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MathTests
+[ RUN      ] MathTests.TestIntAdd
+[       OK ] MathTests.TestIntAdd (0 ms)
+[----------] 1 test from MathTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"MathTests.TestIntAdd" end time: Oct 03 08:57 Støední Evropa (letní èas)
+"MathTests.TestIntAdd" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/4 Testing: MathTests.TestDoubleAdd
+2/4 Test: MathTests.TestDoubleAdd
+Command: "U:/prvni test/build/test/math_test.exe" "--gtest_filter=MathTests.TestDoubleAdd" "--gtest_also_run_disabled_tests"
+Directory: U:/prvni test/build/test
+"MathTests.TestDoubleAdd" start time: Oct 03 08:57 Støední Evropa (letní èas)
+Output:
+----------------------------------------------------------
+Note: Google Test filter = MathTests.TestDoubleAdd
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MathTests
+[ RUN      ] MathTests.TestDoubleAdd
+[       OK ] MathTests.TestDoubleAdd (0 ms)
+[----------] 1 test from MathTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"MathTests.TestDoubleAdd" end time: Oct 03 08:57 Støední Evropa (letní èas)
+"MathTests.TestDoubleAdd" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/4 Testing: MathTests.TestIntMinus
+3/4 Test: MathTests.TestIntMinus
+Command: "U:/prvni test/build/test/math_test.exe" "--gtest_filter=MathTests.TestIntMinus" "--gtest_also_run_disabled_tests"
+Directory: U:/prvni test/build/test
+"MathTests.TestIntMinus" start time: Oct 03 08:57 Støední Evropa (letní èas)
+Output:
+----------------------------------------------------------
+Note: Google Test filter = MathTests.TestIntMinus
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MathTests
+[ RUN      ] MathTests.TestIntMinus
+[       OK ] MathTests.TestIntMinus (0 ms)
+[----------] 1 test from MathTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"MathTests.TestIntMinus" end time: Oct 03 08:57 Støední Evropa (letní èas)
+"MathTests.TestIntMinus" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/4 Testing: MathTests.TestDoubleMinus
+4/4 Test: MathTests.TestDoubleMinus
+Command: "U:/prvni test/build/test/math_test.exe" "--gtest_filter=MathTests.TestDoubleMinus" "--gtest_also_run_disabled_tests"
+Directory: U:/prvni test/build/test
+"MathTests.TestDoubleMinus" start time: Oct 03 08:57 Støední Evropa (letní èas)
+Output:
+----------------------------------------------------------
+Note: Google Test filter = MathTests.TestDoubleMinus
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MathTests
+[ RUN      ] MathTests.TestDoubleMinus
+[       OK ] MathTests.TestDoubleMinus (0 ms)
+[----------] 1 test from MathTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"MathTests.TestDoubleMinus" end time: Oct 03 08:57 Støední Evropa (letní èas)
+"MathTests.TestDoubleMinus" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 03 08:57 Støední Evropa (letní èas)

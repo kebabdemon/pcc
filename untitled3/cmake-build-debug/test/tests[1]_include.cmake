@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/l_uchytil/OneDrive - Univerzita Tomáše Bati ve Zlíně/c++/untitled3/cmake-build-debug/test/tests[1]_tests.cmake")
+  include("C:/Users/l_uchytil/OneDrive - Univerzita Tomáše Bati ve Zlíně/c++/untitled3/cmake-build-debug/test/tests[1]_tests.cmake")
+else()
+  add_test(tests_NOT_BUILT tests_NOT_BUILT)
+endif()

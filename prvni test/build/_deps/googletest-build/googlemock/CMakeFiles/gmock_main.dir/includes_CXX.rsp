@@ -1,0 +1,1 @@
+-isystem "U:/prvni test/build/_deps/googletest-src/googlemock/include" -isystem "U:/prvni test/build/_deps/googletest-src/googlemock" -isystem "U:/prvni test/build/_deps/googletest-src/googletest/include" -isystem "U:/prvni test/build/_deps/googletest-src/googletest"

@@ -1,0 +1,10 @@
+U:/projekt/build/CMakeFiles/edit_cache.dir
+U:/projekt/build/CMakeFiles/rebuild_cache.dir
+U:/projekt/build/bin/CMakeFiles/mymain.dir
+U:/projekt/build/bin/CMakeFiles/edit_cache.dir
+U:/projekt/build/bin/CMakeFiles/rebuild_cache.dir
+U:/projekt/build/src/CMakeFiles/edit_cache.dir
+U:/projekt/build/src/CMakeFiles/rebuild_cache.dir
+U:/projekt/build/src/adder/CMakeFiles/adder.dir
+U:/projekt/build/src/adder/CMakeFiles/edit_cache.dir
+U:/projekt/build/src/adder/CMakeFiles/rebuild_cache.dir

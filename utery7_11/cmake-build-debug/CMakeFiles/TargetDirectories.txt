@@ -1,0 +1,5 @@
+C:/Users/l_uchytil/OneDrive - Univerzita Tomáše Bati ve Zlíně/c++/utery7_11/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/l_uchytil/OneDrive - Univerzita Tomáše Bati ve Zlíně/c++/utery7_11/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/l_uchytil/OneDrive - Univerzita Tomáše Bati ve Zlíně/c++/utery7_11/cmake-build-debug/bin/CMakeFiles/utery7_11.dir
+C:/Users/l_uchytil/OneDrive - Univerzita Tomáše Bati ve Zlíně/c++/utery7_11/cmake-build-debug/bin/CMakeFiles/edit_cache.dir
+C:/Users/l_uchytil/OneDrive - Univerzita Tomáše Bati ve Zlíně/c++/utery7_11/cmake-build-debug/bin/CMakeFiles/rebuild_cache.dir

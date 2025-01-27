@@ -1,0 +1,7 @@
+# ninja log v5
+6	117	7237233265935995	src/Vector/CMakeFiles/Vector.dir/Vector.cpp.obj	a26b538f8674424b
+11	124	7237233266001016	src/Point/CMakeFiles/Point.dir/Point.cpp.obj	78195dd30ec8d325
+118	201	7237233266776139	src/Vector/libVector.a	2e4a46ffead4e72b
+124	205	7237233266806149	src/Point/libPoint.a	95b1706a712c49ee
+1	505	7237233269826684	binaries/CMakeFiles/my_main.dir/main.cpp.obj	b862fe7614ac518c
+506	628	7237233271001879	binaries/my_main.exe	285d0b2f74673e73

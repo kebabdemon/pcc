@@ -1,0 +1,155 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "binaries/my_main.exe"
+		},
+		{
+			"path" : "binaries/my_main.pdb"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"target_link_libraries"
+		],
+		"files" : 
+		[
+			"binaries/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 3,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 4,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 2,
+					"path" : "C:/Users/já/OneDrive - Univerzita Tomáše Bati ve Zlíně/c++/test5.12/src/Vector/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Users/já/OneDrive - Univerzita Tomáše Bati ve Zlíně/c++/test5.12/src/Vector/../abstract"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "C:/Users/já/OneDrive - Univerzita Tomáše Bati ve Zlíně/c++/test5.12/src/Point/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "C:/Users/já/OneDrive - Univerzita Tomáše Bati ve Zlíně/c++/test5.12/src/Point/../abstract"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "C:/Users/já/OneDrive - Univerzita Tomáše Bati ve Zlíně/c++/test5.12/src/Point/../Vector"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "Vector::@afa1d62a37f3f0129120"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "Point::@4a29fade18e44e0e102f"
+		}
+	],
+	"id" : "my_main::@6f31631387443ce6c10b",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "src\\Vector\\libVector.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "src\\Point\\libPoint.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "my_main",
+	"nameOnDisk" : "my_main.exe",
+	"paths" : 
+	{
+		"build" : "binaries",
+		"source" : "binaries"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "binaries/main.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}
